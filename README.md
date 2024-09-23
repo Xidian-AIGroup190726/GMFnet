@@ -1,6 +1,9 @@
 # GMFnet
 This repository contains the implementation of ["ConvGRU-based Multi-scale Frequency Fusion Network for PAN-MS Joint Classification"](https://ieeexplore.ieee.org/abstract/document/10570233) (IEEE Transactions on Geoscience and Remote Sensing). 
 
+## Overall Architecture
+<img src='pic/04Overall Structure4.pdf>
+
 ## Citation
 Please cite GMFnet in your publications if it helps your research:
 ```
