@@ -5,7 +5,7 @@ This repository contains the implementation of [ConvGRU-based Multi-scale Freque
 <img src='https://github.com/Xidian-AIGroup190726/GMFnet/blob/main/src/Overall%20structure.png'>
 
 ## Visualization results of relevant features for GGSFM
-<img src='https://github.com/Xidian-AIGroup190726/GMFnet/blob/main/src/Overall%20structure.png'>
+<img src='https://github.com/Xidian-AIGroup190726/GMFnet/blob/main/src/decompose.png'>
 
 ## Citation
 Please cite GMFnet in your publications if it helps your research:
