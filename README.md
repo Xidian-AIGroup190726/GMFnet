@@ -2,7 +2,7 @@
 This repository contains the implementation of ["ConvGRU-based Multi-scale Frequency Fusion Network for PAN-MS Joint Classification"](https://ieeexplore.ieee.org/abstract/document/10570233) (IEEE Transactions on Geoscience and Remote Sensing). 
 
 ## Citation
-Consider cite PanFormer in your publications if it helps your research:
+Please cite GMFnet in your publications if it helps your research:
 ```
 @ARTICLE{10570233, 
   author={Zhu, Hao and Yi, Xiaoyu and Li, Xiaotong and Hou, Biao and Jiao, Changzhe and Ma, Wenping and Jiao, Licheng}, 
