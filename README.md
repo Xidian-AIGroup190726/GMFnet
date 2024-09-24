@@ -9,7 +9,20 @@ This repository contains the implementation of [ConvGRU-based Multi-scale Freque
 
 ## Run the test
 ```
+import torch
+from model.gmfnet import Net 
 
+if __name__ == '__main__':
+    ms = torch.randn([1, 4, 16, 16).to(device)
+    pan = torch.randn([1, 1, 64, 64]).to(device)
+    args = {
+        'num_channels': 4,
+        'patch_size': 32,
+        'device': device
+    }
+    module = Net(args).to(device)
+    result = module(ms, pan)
+    print(result.shape)   # torch.size([B, C, H, W])
 ```
 
 ## Citation
