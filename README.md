@@ -1,5 +1,5 @@
 # GMFnet
-This repository contains the implementation of [ConvGRU-based Multi-scale Frequency Fusion Network for PAN-MS Joint Classification](https://ieeexplore.ieee.org/abstract/document/10570233) (IEEE Transactions on Geoscience and Remote Sensing). The complete project code is available at [https://github.com/salalalala23/Dual-modal-fusion](https://github.com/salalalala23/Dual-modal-fusion).
+This repository contains the implementation of [ConvGRU-based Multi-scale Frequency Fusion Network for PAN-MS Joint Classification](https://ieeexplore.ieee.org/abstract/document/10570233) (IEEE Transactions on Geoscience and Remote Sensing). 
 
 ## Overall Architecture
 <img src='https://github.com/Xidian-AIGroup190726/GMFnet/blob/main/src/Overall%20structure.png' style="zoom:50%;"/>
@@ -24,6 +24,9 @@ if __name__ == '__main__':
     result = module(ms, pan)
     print(result.shape)   # torch.size([B, C, H, W])
 ```
+
+## Project code
+The complete project code is available at [https://github.com/salalalala23/Dual-modal-fusion](https://github.com/salalalala23/Dual-modal-fusion).
 
 ## Citation
 Please cite GMFnet in your publications if it helps your research:
