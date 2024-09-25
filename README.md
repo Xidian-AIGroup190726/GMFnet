@@ -7,7 +7,7 @@ This repository contains the implementation of [ConvGRU-based Multi-scale Freque
 ## Visualization results of relevant features for GGSFM
 <img src='https://github.com/Xidian-AIGroup190726/GMFnet/blob/main/src/decompose.png'>
 
-## Run test.py
+## Run test.py to use GMFnet
 ```
 import torch
 from model.gmfnet import Net 
